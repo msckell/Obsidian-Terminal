@@ -2,7 +2,7 @@
 
 A desktop trading journal for gold (XAUUSD), built by a discretionary intraday trader to replace the spreadsheet he had outgrown.
 
-https://github.com/msckell/Obsidian-Terminal/raw/main/demo.mp4
+https://github.com/user-attachments/assets/091748db-cf06-467a-a1fb-397d88d393a7
 
 > Everything shown in the video runs on demo data.
 
